@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>C6 Government</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to the C6 Government</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a herf="#">Projects</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>About Us</h2>
+            <p>Welcome to the official website of the C6 Government. Learn more about our mission and services.It is made for PEACE in Class 6th A3 </p>
+            <p>By. Shaurya Upadhayay(Old Monitor of class) <p>
+        </section>
+
+        <section>
+            <h2>Services</h2>
+            <p>Explore the various services we offer to our citizens and residents.</p>
+            <p>* C6 Equilty <p>
+            <p>* C6 Local <p>
+            <p>* C6 Education <p>
+           <p>Note: We are working on more services... <p> 
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 C6 Government</p>
+    </footer>
+</body>
+</html>
